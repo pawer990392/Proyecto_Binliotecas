@@ -1,0 +1,10 @@
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\bin\Debug\Proyecto_Biblioteca.exe.config
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\bin\Debug\Proyecto_Biblioteca.exe
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\bin\Debug\Proyecto_Biblioteca.pdb
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.Properties.Resources.resources
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.csproj.GenerateResource.cache
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.exe
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.pdb
+C:\Users\MIGUEL ANGEL GARCIA\Desktop\PROYECTO DE PAGINA WEB\Proyecto_Biblioteca\obj\Debug\Proyecto_Biblioteca.frameUsuario.resources
